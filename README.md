@@ -7,3 +7,4 @@ At a high level, churn analysis simply tells you what percentage of your custome
 
 # Why Churn Analysis?
 Customer churn analysis helps businesses understand why customers don’t return for repeat business. Churn rate tells you what portion of your customers leave over a period of time. It’s often useful to look at churn by product, region or other granular factors. Businesses with ERP systems may be able to generate customer churn analysis reports using prebuilt dashboards and automated reporting tools. Others will need to do some manual number crunching
+
